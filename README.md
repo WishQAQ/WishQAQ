@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - Ask me about: JavaScript, NodeJs ⚡
-- How to reach me: [wujunlong.com](https://wujunlong.com "冲冲冲，给我去访问") 📫
+- How to reach me: [wujunlong.icu](https://wujunlong.icu "冲冲冲，给我去访问") 📫
 
 ![](https://img.shields.io/badge/Author-WuJunLong-orange) ![](https://img.shields.io/badge/Readme-0.0.1-red)
 <!--
