@@ -2,7 +2,7 @@
 
 - Ask me about: JavaScript, NodeJs ⚡
 - Play with me: [KOOK](https://kook.top/mlNZgn "kook服务器ID：90869005") 🎮
-- How to reach me: [wujunlong.icu](https://wujunlong.icu "冲冲冲，给我去访问") 📫
+- How to reach me: [wujunlong.icu](https://wish.cool "冲冲冲，给我去访问") 📫
 
 ![](https://img.shields.io/badge/Author-WuJunLong-orange) ![](https://img.shields.io/badge/Readme-0.0.1-red)
 <!--
