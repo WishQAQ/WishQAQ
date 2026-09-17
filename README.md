@@ -4,7 +4,7 @@
 - Play with me: [KOOK](https://kook.top/mlNZgn "kook服务器ID：90869005") 🎮
 - How to reach me: [wujunlong.icu](https://wish.cool "冲冲冲，给我去访问") 📫
 
-![](https://img.shields.io/badge/Author-WuJunLong-orange) ![](https://img.shields.io/badge/Readme-0.0.1-red)
+![](https://img.shields.io/badge/Author-WesleyWu-orange) ![](https://img.shields.io/badge/Readme-0.0.1-red)
 <!--
 **WishQAQ/WishQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
